@@ -1,5 +1,5 @@
 # Reproducing-Machine-Learning-Models-for-Predicting-Liver-Fibrosis-in-Chronic-Hepatitis-C
-This repository contains a full end-to-end reproduction attempt of the machine learning workflow described in the following peer-reviewed paper:
+This repository contains a full end-to-end reproduction attempt of the machine learning workflow described in the following paper:
 
 Akella A., & Akella S. (2020)
 Applying Machine Learning to Evaluate for Fibrosis in Chronic Hepatitis C. bioRxiv. 
